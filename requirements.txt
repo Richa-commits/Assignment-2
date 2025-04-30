@@ -1,0 +1,7 @@
+streamlit
+pandas
+openai
+requests
+python-dotenv
+cleanco
+fuzzywuzzy
